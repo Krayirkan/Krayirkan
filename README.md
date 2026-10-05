@@ -93,7 +93,7 @@ and reusable components that can be shared openly.
 
 **Marmara University**
 
-M.Sc. — Capital Markets & Stock Exchange
+M.A. — Capital Markets & Stock Exchange
 
 **B.Sc. — Computer Engineering**
 
