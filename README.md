@@ -95,6 +95,9 @@ and reusable components that can be shared openly.
 
 M.A. — Capital Markets & Stock Exchange
 
-**B.Sc. — Computer Engineering**
+**Mehmet Akif Ersoy Üniversitesi**
+
+B.Sc. — Computer Engineering
+
 
 ---
